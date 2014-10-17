@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lga:home|Door43 (lga)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lga|d43-lga repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lga/archive/master.zip|d43-lga.zip]]
+
+**Recent Changes**
+{{changes>ns = lga}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lga|Ethnologue data]]
+
